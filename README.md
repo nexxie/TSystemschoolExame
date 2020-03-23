@@ -11,11 +11,11 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 
 ### Result ###
 
-* Author name : {PUT YOUR NAME HERE}
+* Author name : Yarosav Vakhov
 * Codeship : {PUT YOUR CODESHIP BAGDE HERE}
 
 Example of Codeship badge. Please remove the example before you send us the link. 
-[ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/a9af8940-d130-0134-89a6-5e8aaaa2a5a2/status?branch=master)](https://app.codeship.com/projects/201451)
+[![Codeship Status for nexxie/TSystemschoolExame](https://app.codeship.com/projects/c0feffd0-4f53-0138-0e61-565814555a75/status?branch=master)](https://app.codeship.com/projects/389906)
 
 
 ### How to start?  ###
