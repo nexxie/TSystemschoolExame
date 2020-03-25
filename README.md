@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Yarosav Vakhov
-* Codeship : [![Codeship Status for nexxie/TSystemschoolExame](https://app.codeship.com/projects/c0feffd0-4f53-0138-0e61-565814555a75/status?branch=master)](https://app.codeship.com/projects/389906)
+* Codeship :  [![Codeship Status for nexxie/TSystemschoolExame](https://app.codeship.com/projects/c0feffd0-4f53-0138-0e61-565814555a75/status?branch=master)](https://app.codeship.com/projects/389906)
 
 
 ### How to start?  ###
