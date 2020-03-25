@@ -8,7 +8,7 @@ public class CalculatorTest {
     private Calculator calc = new Calculator();
 
     @Test
-    public void evaluate() {
+    public void evaluate(){
         //given
         String input = "2+3";
         String expectedResult = "5";
@@ -112,7 +112,7 @@ public class CalculatorTest {
     }
 
     @Test
-    public void evaluate8() {
+    public void evaluate8()  {
         //given
         String input = "22/4*2.159";
         String expectedResult = "11.8745";
@@ -138,7 +138,7 @@ public class CalculatorTest {
     }
 
     @Test
-    public void evaluate10() {
+    public void evaluate10()  {
         //given
         String input = "- 12)1//(";
         String expectedResult = null;
@@ -190,7 +190,7 @@ public class CalculatorTest {
     }
 
     @Test
-    public void evaluate14() {
+    public void evaluate14()  {
         //given
         String input = "";
         String expectedResult = null;
@@ -203,7 +203,7 @@ public class CalculatorTest {
     }
 
     @Test
-    public void evaluate15() {
+    public void evaluate15()  {
         //given
         String input = "5+41..1-6";
         String expectedResult = null;
@@ -229,7 +229,7 @@ public class CalculatorTest {
     }
 
     @Test
-    public void evaluate17() {
+    public void evaluate17()  {
         //given
         String input = "5--41-6";
         String expectedResult = null;
@@ -242,7 +242,7 @@ public class CalculatorTest {
     }
 
     @Test
-    public void evaluate18() {
+    public void evaluate18()  {
         //given
         String input = "5**41-6";
         String expectedResult = null;
@@ -255,8 +255,7 @@ public class CalculatorTest {
     }
 
     @Test
-    public void evaluate19() {
-        //given
+    public void evaluate19(){
         String input = "5//41-6";
         String expectedResult = null;
 

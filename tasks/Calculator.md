@@ -18,12 +18,12 @@ Example: 102.12356 -> 102.1236
 
 ### Input and expected output ###
 * Input : String containing arithmetic expression
-* Output : evaluation result or null if the expression cannot be evaluated 
+* Output : evaluation result or null if the expression cannot be evaluate1d
 
 ### Examples ###
 ```java
 Calculator c = new CalculatorImpl();
-System.out.println(c.evaluate("(1+38)*4-5")); // Result: 151
-System.out.println(c.evaluate("7*6/2+8")); // Result: 29
-System.out.println(c.evaluate("-12)1//(")); // Result: null
+System.out.println(c.evaluate1("(1+38)*4-5")); // Result: 151
+System.out.println(c.evaluate1("7*6/2+8")); // Result: 29
+System.out.println(c.evaluate1("-12)1//(")); // Result: null
 ```
